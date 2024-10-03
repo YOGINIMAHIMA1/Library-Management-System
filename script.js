@@ -19,7 +19,7 @@ let products = {
             author: "author : KAVERI S",
             subject: "IT",
             date:  "2023-12-22",
-            image: "img/Database.jpg" ,
+            image: "img/aws.jpg" ,
         },
         {
             title: "title : Computer networks and security",
@@ -29,11 +29,11 @@ let products = {
             image: "img/cns.jpg" ,
         },
         {
-            title: "title : Mental Peace",
+            title: "title : SAP",
             author: "author : Preeti",
             subject: "Novel",
             date:  "2011-11-10",
-            image: "img/Network.jpg" ,
+            image: "img/sap.jpg" ,
         },
         {
             title: "title : Artificial Intelligence",
@@ -47,14 +47,14 @@ let products = {
             author: "author : Amar.W",
             subject: "CSE",
             date:  "2017-12-20",
-            image: "img/Sdesign.jpg" ,
+            image: "img/systemdesign.jpg" ,
         },
         {
-            title: "title : Mathematics",
+            title: "title : Data Structure",
             author: "author : HARIKRISHNA",
             subject: "Basic",
             date: "2018-01-21",
-            image: "img/Maths.jpg" ,
+            image: "img/DS.jpg" ,
         },
         {
             title: "title : Harry Potter",
