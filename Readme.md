@@ -66,10 +66,11 @@ Scalable Architecture: The system is designed to be extended with additional fea
  - styles.css          # CSS file for styling the UI
  # scripts/
   -  app.js              # JavaScript file for dynamic functionality
- # assets/
--    images/             # Book cover images and icons
+ # assets/images/             
+- Book cover images and icons
 
- #  README.md               # Project documentation
+ #  README.md               
+ - Project documentation
 
 # Future Enhancements
 - The system is designed with scalability in mind. Some potential future improvements include:
