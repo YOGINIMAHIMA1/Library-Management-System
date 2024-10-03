@@ -1,21 +1,21 @@
 let products = {
     data : [
         {
-            title: "title : NCERT",
+            title: "title : Cloud Computing",
             author: "author : Shiksha Kumari",
-            subject: "Basic",
+            subject: "Advanced",
             date: "2024-01-31",
-            image: "img/NCER.jpg" ,
+            image: "img/cloudcomputing.jpg" ,
         },
         {
-            title: "title : Cryptography",
-            author: "author : P.J.BOSE",
+            title: "title : Linux",
+            author: "author : Linux Torvalds",
             subject: "IT",
             date: "2024-11-11",
-            image: "img/crypto.jpg" ,
+            image: "img/linux.jpg" ,
         },
         {
-            title: "title : DBMS",
+            title: "title : AWS",
             author: "author : KAVERI S",
             subject: "IT",
             date:  "2023-12-22",
