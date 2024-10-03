@@ -31,7 +31,7 @@ let products = {
         {
             title: "title : SAP",
             author: "author : Preeti",
-            subject: "Novel",
+            subject: "IT",
             date:  "2011-11-10",
             image: "img/sap.jpg" ,
         },
@@ -78,11 +78,11 @@ let products = {
             image: "img/ah.jpg" ,
         },
         {
-            title: "title : How to win friends and influence people",
+            title: "title : DBMS",
             author: "author : LEHAN FAYAZ",
-            subject: "Novel",
+            subject: "IT",
             date:  "2002-02-02",
-            image: "img/htw.jpeg" ,
+            image: "img/dbms.jpeg" ,
         },
         {
             title: "title : Image Processing",
