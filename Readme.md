@@ -9,29 +9,29 @@
 - Future Enhancements
 - Contributing
 - License
-`Overview`
+ # Project Overview
 * The Library Management System is a modern web application designed to simplify the management of books within a library. Built with a focus on usability and efficiency, this system allows users to seamlessly search, view, and filter books across various categories. It aims to provide an intuitive interface for both library administrators and users.
 
 * The system offers features like category-based filtering, book search functionality, and an aesthetically pleasing, responsive layout. This project is ideal for institutions looking for an easy-to-use system to keep track of their library inventory.
 
-`Features`
+# Features
 * Search Functionality: Easily search for books by title, improving navigation within large collections.
 Category Filtering: Quickly filter books based on their category, such as Fiction, Science, History, and more.
 Responsive Design: The system is fully responsive, ensuring a seamless user experience on mobile, tablet, and desktop devices.
 * Detailed Book Information: Each book displays the title, author, category, and published date in a visually appealing card format.
 Scalable Architecture: The system is designed to be extended with additional features like user management and borrowing systems in the future.
-`Technology Stack`
+ # Technology Stack
 * This project utilizes the following technologies:
 
-`Frontend:`
+ # Frontend:
 - HTML5: For structuring the web pages.
 - CSS3 (including Flexbox and Grid): For designing a responsive and visually appealing interface.
 - JavaScript (ES6+): For adding interactivity and handling dynamic data.
-`Development Tools:`
+ # Development Tools:
 - Git: For version control and collaboration.
 - Visual Studio Code: Code editor for development.
-`Installation`
-`Prerequisites`
+# Installation
+# Prerequisites
 - Ensure you have the following installed:
 - A modern web browser (Chrome, Firefox, Safari, etc.)
 - A text editor or IDE for code editing (VS Code recommended)
@@ -59,39 +59,38 @@ Scalable Architecture: The system is designed to be extended with additional fea
 `File Structure`
 - The project is organized as follows:
 
-library-management-system/
-│
-├── index.html              # Main HTML file
-├── styles/
-│   └── styles.css          # CSS file for styling the UI
-├── scripts/
-│   └── app.js              # JavaScript file for dynamic functionality
-├── assets/
-│   └── images/             # Book cover images and icons
-├── screenshots/
-│   └── library-system.png  # Screenshot of the project interface
-└── README.md               # Project documentation
+# library-management-system/
 
-`Future Enhancements`
+ - index.html              # Main HTML file
+ # styles/
+ - styles.css          # CSS file for styling the UI
+ # scripts/
+  -  app.js              # JavaScript file for dynamic functionality
+ # assets/
+-    images/             # Book cover images and icons
+
+ #  README.md               # Project documentation
+
+# Future Enhancements
 - The system is designed with scalability in mind. Some potential future improvements include:
 
-`Borrowing and Returning System:`
+ # Borrowing and Returning System:
 - Implement a borrowing system where users can check out and return books, along with a due date tracking feature.
 
-`User Roles and Permissions:`
+# User Roles and Permissions:
 - Add role-based access control, allowing administrators to manage book inventory while regular users can only search and borrow.
-`Improved Search Algorithms:`
+ # Improved Search Algorithms:
 - Enhance the search functionality to include fuzzy matching and auto-suggestions based on partial input.
-`Contributing`
+ # Contributing
 - We welcome contributions to improve the Library Management System. To contribute, please follow these steps:
-`Fork the repository.`
+# Fork the repository.
 - Create a new feature branch:
 - git checkout -b feature-branch
-`Commit your changes:`
+# Commit your changes:
 - git commit -m "Add some feature"
 - Push to the branch:
 - git push origin feature-branch
 - Submit a pull request for review.
-`License`
+# License
 - This project all copyrights (c) Mahima Bhardwaj
 
