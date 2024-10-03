@@ -19,7 +19,7 @@
   #search-container input {
     background-color: transparent;
     width: 40%;
-    border-bottom: 2px solid #110f29;
+    border-bottom: 2px solid goldenrod;
     padding: 1em 0.3em;
   }
   #search-container input:focus {
@@ -43,7 +43,7 @@
   }
   .active {
     background-color: #6759ff;
-    color: #ffffff;
+    color: #000;
   }
   #Books {
     display: grid;
@@ -93,13 +93,7 @@
       grid-column-gap: 1em;
     }
   }
-  /* #Books{
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    align-content: flex-end;
-    border: 5px;
-  } */
+  
   
 * {
 	box-sizing: border-box;

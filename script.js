@@ -82,7 +82,7 @@ let products = {
             author: "author : LEHAN FAYAZ",
             subject: "IT",
             date:  "2002-02-02",
-            image: "img/dbms.jpeg" ,
+            image: "img/dbms.jpg" ,
         },
         {
             title: "title : Image Processing",
@@ -92,11 +92,11 @@ let products = {
             image: "img/wta.jpg" ,
         },
         {
-            title: "title : Physics",
+            title: "title : C++",
             author: "author : Nisha Verma",
-            subject: "Basic",
+            subject: "CS",
             date:  "2005-12-20",
-            image: "img/Ncert.jpg" ,
+            image: "img/download.jpg" ,
         },
         {
             title: "title : UNIX",
