@@ -1,19 +1,19 @@
-#        Contributing Guidelines
--   Thank you for considering contributing to our project! Please follow these guidelines to make sure your contribution is as smooth as possible.
+#                                    Contributing Guidelines
+*     Thank you for considering contributing to our project! Please follow these guidelines to make sure your contribution is as smooth as possible.
 
-Table of Contents
-Code of Conduct
-How to Contribute
-Reporting Issues
-Suggesting Enhancements
-Submitting Pull Requests
-Coding Standards
-Commit Guidelines
+- Table of Contents
+- Code of Conduct
+- How to Contribute
+- Reporting Issues
+- Suggesting Enhancements
+- Submitting Pull Requests
+- Coding Standards
+-  Commit Guidelines
 
 
-Testing
+`Testing`
 1. Code of Conduct
-Please read and adhere to our Code of Conduct. Respect all contributors and maintain a friendly, welcoming environment.
+- Please read and adhere to our Code of Conduct. Respect all contributors and maintain a friendly, welcoming environment.
 
 2. How to Contribute
 Reporting Issues
